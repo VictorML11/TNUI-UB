@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.csv
+!order_products__test.csv
+!orders__test.csv
+data/*
+!data/.gitkeep
+*.pkl

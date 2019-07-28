@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.csv
+!order_products__test.csv
+data/*
+!data/.gitkeep
